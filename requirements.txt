@@ -10,3 +10,7 @@ flake8==3.5.0
 yapf==0.20.0
 scipy==1.0.0
 fclear==0.1.0
+moviebox
+enjoy
+scm_project
+
